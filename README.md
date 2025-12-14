@@ -82,6 +82,5 @@ Execute os testes com:
 
 Este projeto está sob licença.  Consulte o arquivo LICENSE para mais detalhes. 
 
-## Autor
-
-Desenvolvido por [@Sousxs](https://github.com/Sousxs)
+---
+>  Feito por [Sousxs](https://github.com/Sousxs)
